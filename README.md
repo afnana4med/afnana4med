@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **Next.js**, **TypeScript**, and **GraphQL**.
 - 👯 I’m looking to collaborate on **innovative open-source projects**.
 - 💬 Ask me about **Machine Learning Algorithms, Full-Stack Development, and Open Source**.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/a4hmed) | [Email](mailto:aa2860@sussex.ac.uk)
+- 📫 How to reach me: [LinkedIn](https://.linkedin.com/in/a4hmed) | [Email](mailto:aa2860@sussex.ac.uk)
 - ⚡ Fun fact: I believe technology can solve the world's biggest challenges!
 
 ---
@@ -46,6 +46,6 @@ A full-stack e-commerce platform with **React**, **Node.js**, and **MongoDB**.
 ---
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/a4hmed)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://.linkedin.com/in/a4hmed)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Afnan31831279)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github&logoColor=white)](https://yourportfolio.com)
