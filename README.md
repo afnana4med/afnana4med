@@ -1,5 +1,7 @@
 # Hi there, I'm Afnan Ahmed! 👋
 
+![Welcome GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR4NHhuZWV6OThteDUzMG1tYnpoYmMxdHpxN2tzaDB5azY3am9mbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MD0svLSDeudszrNrp0/giphy.gif)
+
 🌟 Welcome to my GitHub! I’m a passionate **Data Analyst** and **Tech Enthusiast** who loves turning ideas into reality through code. 🚀
 
 ---
