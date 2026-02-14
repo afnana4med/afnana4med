@@ -34,8 +34,8 @@ A personal portfolio showcasing my work, projects, and achievements. Built with 
 ### 📱 [Mobile App](https://github.com/afnana4med/mobile-app)
 A cross-platform app built with **Flutter** to help users connect and collaborate.
 
-### 🌐 [E-Commerce Platform](https://github.com/afnana4med/ecommerce-platform)
-A full-stack e-commerce platform with **React**, **Node.js**, and **MongoDB**.
+### 🌐 [E-Commerce Platform]((https://www.vayanienterprises.co.uk/))
+A full-stack e-commerce platform with **Next.js + Tailwind**, **Node.js**, and **MongoDB**.
 
 ---
 
