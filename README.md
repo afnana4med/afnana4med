@@ -1,6 +1,6 @@
 # Afnan Ahmed
 
-Computer scientist based in UK. I build AI developer tools, full-stack web applications, and game systems.
+AI Engineer based in UK. I build AI developer tools, full-stack web applications, and Large Language systems.
 
 Graduarted from **University of Sussex Class of 2025** and Director of **Vayani Enterprises Limited**.
 
