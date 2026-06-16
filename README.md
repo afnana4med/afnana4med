@@ -1,51 +1,38 @@
-# Hi there, I'm Afnan Ahmed! 👋
+# Afnan Ahmed
 
-![Welcome GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR4NHhuZWV6OThteDUzMG1tYnpoYmMxdHpxN2tzaDB5azY3am9mbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MD0svLSDeudszrNrp0/giphy.gif)
+Computer scientist based in Brighton, UK. I build AI developer tools, full-stack web applications, and game systems.
 
-🌟 Welcome to my GitHub! I’m a passionate **Data Analyst** and **Tech Enthusiast** who loves turning ideas into reality through code. 🚀
-
----
-
-## 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+Currently studying CS at **University of Sussex** and working on AI tooling at **Vayani Enterprises**.
 
 ---
 
-## 🌟 About Me
-- 🔭 I’m currently working on **[Your Exciting Project](https://github.com/afnana4med/vayani-enterprises)**.
-- 🌱 I’m currently learning **Next.js**, **TypeScript**, and **GraphQL**.
-- 👯 I’m looking to collaborate on **innovative open-source projects**.
-- 💬 Ask me about **Machine Learning Algorithms, Full-Stack Development, and Open Source**.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/a4hmed) | [Email](mailto:aa2860@sussex.ac.uk)
-- ⚡ Fun fact: I believe technology can solve the world's biggest challenges!
+## Tech
+
+**Languages** — TypeScript · Python · JavaScript · Java · C#  
+**AI / ML** — CNN · HOG · NLP · Deep Q-Networks · LLM prompt engineering · OpenAI Gym  
+**Web** — Next.js · React · Tailwind CSS · Three.js · Node.js  
+**Tools** — GitHub Actions · Vercel · Anthropic Claude · REST APIs  
 
 ---
 
-## 🚀 Featured Projects
-### 🌟 [My Portfolio](https://github.com/afnana4med/portfolio)
-A personal portfolio showcasing my work, projects, and achievements. Built with **React** and **TailwindCSS**.
+## Featured Work
 
-### 📱 [Mobile App](https://github.com/afnana4med/mobile-app)
-A cross-platform app built with **Flutter** to help users connect and collaborate.
-
-### 🌐 [E-Commerce Platform]((https://www.vayanienterprises.co.uk/))
-A full-stack e-commerce platform with **Next.js + Tailwind**, **Node.js**, and **MongoDB**.
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afnana4med&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afnana4med&layout=compact&theme=radical)
+| Project | Stack | Description |
+|---|---|---|
+| [Semantic Code Review Bot](https://github.com/afnana4med/semantic-code-review-bot) | TypeScript · GitHub Actions · Claude AI | AI that reviews PR diffs and posts structured findings inline — [live demo](https://web-seven-tau-27.vercel.app) |
+| [Face Alignment — CNN + HOG](https://github.com/afnana4med/Face-Alignment-CNN_HOG) | Python · PyTorch · OpenCV | Facial landmark detection with lip and eye colour modification |
+| [NLP Sentiment Classification](https://github.com/afnana4med/NLP_Sentiments_Classification) | Python · scikit-learn · NLTK | Comparing NLP approaches for movie review sentiment analysis |
+| [Deep Q-Network — Frozen Lake](https://github.com/afnana4med/Deep-Q-Network-FrozenLake) | Python · OpenAI Gym · PyTorch | Reinforcement learning agent solving a grid-world environment |
+| [3D Shoe Shop](https://github.com/afnana4med/3js-shoes-shop) | Three.js · JavaScript | Interactive 3D product viewer in the browser |
+| [Risk Board Game](https://github.com/afnana4med/Risk-Board-Game-SE-CW) | C# · Godot 4 | Multiplayer territory conquest strategy game |
 
 ---
 
-## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/a4hmed)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Afnan31831279)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github&logoColor=white)](https://yourportfolio.com)
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afnana4med&show_icons=true&hide_border=true&bg_color=07090F&text_color=94a3b8&icon_color=22c55e&title_color=f8fafc)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afnana4med&layout=compact&hide_border=true&bg_color=07090F&text_color=94a3b8&title_color=f8fafc&hide=jupyter%20notebook)
+
+---
+
+[LinkedIn](https://linkedin.com/in/a4hmed) · [Email](mailto:aa2860@sussex.ac.uk) · [Live Demo](https://web-seven-tau-27.vercel.app)
