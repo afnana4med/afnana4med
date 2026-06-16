@@ -2,7 +2,7 @@
 
 Computer scientist based in Brighton, UK. I build AI developer tools, full-stack web applications, and game systems.
 
-Currently studying CS at **University of Sussex** and working on AI tooling at **Vayani Enterprises**.
+Graduarted from **University of Sussex Class of 2025** and Director of **Vayani Enterprises Limited**.
 
 ---
 
