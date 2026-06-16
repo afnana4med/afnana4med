@@ -1,7 +1,5 @@
 # Afnan Ahmed
 
-<img src="https://media.tenor.com/videos/26065234" alt="Coding" width="400" align="right" />
-
 Computer scientist based in UK. I build AI developer tools, full-stack web applications, and game systems.
 
 Graduarted from **University of Sussex Class of 2025** and Director of **Vayani Enterprises Limited**.
