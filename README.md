@@ -35,7 +35,7 @@ I'm a **Computer Science & AI graduate** from the **University of Sussex (Class 
 - Wrote complex **DAX** measures that reduced data processing time by **26.8%**
 - Collaborated with data engineers to acquire, clean and transform large datasets, improving reporting accuracy and reliability
 
-**Director — Vayani Enterprises Limited** *(2024 – Present)*
+**Director — Vayani Enterprises Limited** *(2025 – Present)*
 - Run a UK e-commerce business end-to-end, including an in-house **AI email agent** that automates triage, supplier follow-ups and meeting briefings
 
 ---
