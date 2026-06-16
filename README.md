@@ -1,5 +1,7 @@
 # Afnan Ahmed
 
+<img src="https://media.tenor.com/videos/26065234" alt="Coding" width="400" align="right" />
+
 Computer scientist based in UK. I build AI developer tools, full-stack web applications, and game systems.
 
 Graduarted from **University of Sussex Class of 2025** and Director of **Vayani Enterprises Limited**.
@@ -19,7 +21,7 @@ Graduarted from **University of Sussex Class of 2025** and Director of **Vayani 
 
 | Project | Stack | Description |
 |---|---|---|
-| [Semantic Code Review Bot](https://github.com/afnana4med/semantic-code-review-bot) | TypeScript · GitHub Actions · Claude AI | AI that reviews PR diffs and posts structured findings inline — [live demo](https://web-seven-tau-27.vercel.app) |
+| [Semantic Code Review Bot](https://github.com/afnana4med/semantic-code-review-bot) | TypeScript · GitHub Actions · Claude AI | AI that reviews PR diffs and posts structured findings inline |
 | [Face Alignment — CNN + HOG](https://github.com/afnana4med/Face-Alignment-CNN_HOG) | Python · PyTorch · OpenCV | Facial landmark detection with lip and eye colour modification |
 | [NLP Sentiment Classification](https://github.com/afnana4med/NLP_Sentiments_Classification) | Python · scikit-learn · NLTK | Comparing NLP approaches for movie review sentiment analysis |
 | [Deep Q-Network — Frozen Lake](https://github.com/afnana4med/Deep-Q-Network-FrozenLake) | Python · OpenAI Gym · PyTorch | Reinforcement learning agent solving a grid-world environment |
