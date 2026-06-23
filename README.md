@@ -84,6 +84,7 @@ I'm a **Computer Science & AI graduate** from the **University of Sussex (Class 
 | Project | Stack | Description |
 |---|---|---|
 | [**Semantic Code Review Bot**](https://github.com/afnana4med/semantic-code-review-bot) | TypeScript · GitHub Actions · Claude AI | AI that reviews PR diffs and posts structured findings inline |
+| [**Multimodal RAG**](https://github.com/afnana4med/multimodal-rag)| Python · Jupyter Notebook · Transformers/LLMs | Retrieval-augmented generation pipeline for multimodal documents (text + images) with context-aware Q&A |
 | [**Face Alignment — CNN + HOG**](https://github.com/afnana4med/Face-Alignment-CNN_HOG) | Python · PyTorch · OpenCV | Facial landmark detection with lip and eye colour modification |
 | [**NLP Sentiment Classification**](https://github.com/afnana4med/NLP_Sentiments_Classification) | Python · scikit-learn · NLTK | Comparing NLP approaches for movie review sentiment analysis |
 | [**Deep Q-Network — Frozen Lake**](https://github.com/afnana4med/Deep-Q-Network-FrozenLake) | Python · OpenAI Gym · PyTorch | Reinforcement learning agent solving a grid-world environment |
