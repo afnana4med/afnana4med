@@ -19,6 +19,7 @@
   <img src="./banner.gif" alt="Afnan Ahmed" width="80%" />
 </p>
 
+---
 
 ### 👋 About Me
 
