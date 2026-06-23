@@ -2,6 +2,8 @@
 
 <h1 align="center">Afnan Ahmed</h1>
 
+---
+
 <p align="center">
   <b>AI Engineer · Full-Stack Developer · Data Analyst</b><br/>
   Building AI developer tools, LLM systems, and full-stack applications.
