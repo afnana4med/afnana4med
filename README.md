@@ -1,7 +1,5 @@
 <!-- BANNER -->
-<p align="center">
-  <img src="./banner.gif" alt="Afnan Ahmed" width="100%" />
-</p>
+
 
 <h1 align="center">Afnan Ahmed</h1>
 
@@ -16,6 +14,9 @@
   <img src="https://img.shields.io/badge/UK-Based-22c55e?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="./banner.gif" alt="Afnan Ahmed" width="80%" />
+</p>
 ---
 
 ### 👋 About Me
